@@ -14,7 +14,7 @@ Originally developed at Bigpoint. Published here with Bigpoint's permission for 
 
 ## Planned changes
 
-- [ ] Tag and publish `v0.5.7` with the Release workflow.
+- [x] Tag and publish `v0.5.7` with the Release workflow.
 - [ ] Run this package's tests in CI with `unity-ci-kit` (needs a small test-project helper in the kit).
 
 ## Notes and ideas
