@@ -1,0 +1,15 @@
+{
+  "name": "com.tea-spoons.service-locator",
+  "version": "0.5.7",
+  "displayName": "Service Locator",
+  "description": "Lightweight service binding and location.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Muhammad Tarek Abdou",
+    "email": "muhammadtarekabdou@gmail.com",
+    "url": "https://github.com/MuhammadTarek0"
+  },
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "documentationUrl": "https://github.com/tea-spoons/service-locator#readme",
+  "licensesUrl": "https://github.com/tea-spoons/service-locator/blob/main/LICENSE.md"
+}
