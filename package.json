@@ -1,6 +1,6 @@
 {
   "name": "com.tea-spoons.service-locator",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "displayName": "Service Locator",
   "description": "Lightweight service binding and location.",
   "unity": "2022.3",
